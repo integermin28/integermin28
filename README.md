@@ -1,0 +1,4 @@
+- 👋 Hi, I’m integermin28, I am from south korea
+- 👀 I’m interested in new technology, especially A.I, Machine learning. And also intereted in analyzing economy, financial data.
+- 🌱 I’m currently learning Machine learning, Deep learning, Reignforcement learning.
+- 📫 How to reach me: smjung1997@naver.com
